@@ -9,6 +9,8 @@ import { SearchPageComponent } from './pages/search-page/search-page.component';
 import { RouterModule } from '@angular/router';
 import { LayoutPageComponent } from './pages/layout-page/layout-page.component';
 import { MaterialModule } from '../material/material.module';
+import { CardComponent } from './components/card/card.component';
+import { HeroImagePipe } from './pipes/hero-image.pipe';
 
 @NgModule({
   declarations: [
@@ -17,6 +19,8 @@ import { MaterialModule } from '../material/material.module';
     NewPageComponent,
     LayoutPageComponent,
     SearchPageComponent,
+    CardComponent,
+    HeroImagePipe,
   ],
   imports: [CommonModule, HeroesRoutingModule, RouterModule, MaterialModule],
 })
