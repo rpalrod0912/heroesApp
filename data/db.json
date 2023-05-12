@@ -13,15 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://m.media-amazon.com/images/I/61wTW8K5E4L._AC_.jpg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +159,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "OWcxT6e",
+      "superhero": "venom",
+      "publisher": "DC Comics",
+      "alter_ego": "venom",
+      "first_appearance": "Marvel comic 2020",
+      "characters": "Rafael Pal curso udemy fh",
+      "alt_img": "https://www.xtrafondos.com/wallpapers/vertical/venom-en-spider-man-2-8771.jpg"
     }
   ]
 }
